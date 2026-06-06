@@ -1,6 +1,6 @@
 # COVID Vaccine Prediction — Group S
 ### Research Methods in Data Science | University of Hertfordshire
-### Assignment 1 — Data Science Challenge Hackathon
+### Data Science Challenge Hackathon
 
 ---
 
